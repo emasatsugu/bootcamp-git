@@ -1,0 +1,4 @@
+{
+  "name": "HCS Bootcamp: Git",
+  "install": "git --version"
+}
