@@ -1,0 +1,4 @@
+{
+  "name": "bootcamp-git",
+  "install": "git --version\ngcc --version\nmake --version"
+}
